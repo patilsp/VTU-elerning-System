@@ -14,7 +14,7 @@
                 <p><b>
 				To be the educational institution of preferred choice by ushering convergence of knowledge, skills and values. </b></p>
 				<p><b>
-				To Mould Character and Careers. 
+				To Mould Character and Careers.
                 </b></p>
 
                 <div class="alert alert-info"><strong>Mission</strong></div>
@@ -37,7 +37,7 @@
                 <p>To provide a highly developed form of teaching through maximizing the use of technology which will somehow give an easier and efficient way of learning that will make them to be competitive and productive citizens of the society.</p>
 
                 <div class="alert alert-info"><strong>E-Learning Vision</strong></div>
-               
+
                 To be able to prove to people that Filipinos also know how to cope up with the development in technology this will provide an easier way of teaching and a better form of learning.
 
             </div>
