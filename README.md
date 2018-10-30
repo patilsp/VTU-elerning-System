@@ -1,2 +1,2 @@
 # VTU-elerning-System
-This is my project about e learning management system. 
+This is my mini project about vtu e-learning management system. this is initial commit.
